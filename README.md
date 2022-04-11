@@ -59,5 +59,5 @@ Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Chan
 [heroku_img]: https://img.shields.io/badge/-heroku-ffffff?style=for-the-badge&logo=heroku&logoColor=79589F "Heroku"
 [mongodb_img]: https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=green "Mongodb"
 [git_img]: https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git "Git"
-[github_stats]: https://github-readme-stats.vercel.app/api?username=PahariBande&icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
-[top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=PahariBande&layout=compact&langs_count=8&hide_border=true&theme=radical "jmschp Top Lang"
+[github_stats]: https://github-readme-stats.vercel.app/api?username=Thakur-Sahab-4-5-2000&icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
+[top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-Sahab-4-5-2000&layout=compact&langs_count=8&hide_border=true&theme=radical "jmschp Top Lang"
