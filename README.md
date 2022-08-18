@@ -4,7 +4,7 @@
 
 Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Chandigarh.
 
-- 🔭 Working on multiple frontend and backend projects using React, NextJS and Nodejs
+- 🔭 Working on multiple frontend and backend projects using React, NextJS,React Native and Nodejs
 
 ---
 
