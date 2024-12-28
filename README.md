@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=40&fontColor=ffffff)
 
-Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Chandigarh.
+Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Punjab.
 
 - 🔭 Working on multiple frontend and backend projects using React, NextJS,React Native and Nodejs
 
