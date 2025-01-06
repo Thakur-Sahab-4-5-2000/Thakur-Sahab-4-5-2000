@@ -39,7 +39,7 @@ Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Punj
 
 <!-- references -->
 
-[instagram]: https://www.instagram.com/____thakursaab_____/ "Instagram"
+[instagram]: https://www.instagram.com/rajputvaliant/ "Instagram"
 [facebook]: https://www.facebook.com/Huntershikaaribro "facebook"
 
 <!-- img references -->
