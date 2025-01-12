@@ -4,7 +4,7 @@
 
 Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Punjab.
 
-- 🔭 Working on multiple frontend and backend projects using React, NextJS,React Native and Nodejs
+- 🔭 Working on multiple frontend and backend projects using React, NextJS,React Native, Nodejs, ASP.NET and C#.
 
 ---
 
@@ -17,6 +17,8 @@ Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Punj
 ## Languages and tools
 
 ![Clang][c_img] ![Clang][C2_img]
+
+![C#] ![.NET]
 
 ![Python][python_img] ![Django][django_img]
 
@@ -61,3 +63,5 @@ Hi my name is Shubham Kumar, I am a passionate Fullstack Web Developer from Punj
 [git_img]: https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git "Git"
 [github_stats]: https://github-readme-stats.vercel.app/api?username=Thakur-Sahab-4-5-2000&icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
 [top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-Sahab-4-5-2000&layout=compact&langs_count=8&hide_border=true&theme=radical "jmschp Top Lang"
+[C#]:https://img.shields.io/badge/Csharp-white?style=for-the-badge&logo=c#&logoColor=blue "csharp"
+[.NET]:https://img.shields.io/badge/dotnet-white?style=for-the-badge&logo=dotnet&logoColor=blue "dotnet"
